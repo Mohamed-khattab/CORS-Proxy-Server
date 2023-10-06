@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# enviroment variables 
+.env
+
+#ignore file 
+.gitignore
